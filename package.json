@@ -19,9 +19,12 @@
     "gulp-eslint": "^0.15.0",
     "gulp-open": "^1.0.0",
     "jquery": "^2.1.4",
+    "lodash": "^4.13.1",
+    "object-assign": "^4.1.0",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
     "reactify": "^1.1.1",
+    "toastr": "^2.1.2",
     "vinyl-source-stream": "^1.1.0"
   }
 }
